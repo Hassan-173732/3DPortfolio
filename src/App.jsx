@@ -1,13 +1,7 @@
 import { BrowserRouter } from "react-router-dom"
 import { About,Contact,Experience, Feedbacks,Hero, Navbar, Tech, Works, StarsCanvas} from "../src/components"
 
-/**
- * Renders the main application component.
- * @returns {JSX.Element} The rendered App component.
- */
-function App() {
-  // ...
-}
+
 function App() {
   return (
     <BrowserRouter>
