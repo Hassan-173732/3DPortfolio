@@ -5,7 +5,7 @@
 
 Welcome to my 3D Portfolio project – where code meets the third dimension! 🌐✨
 
-![3D Portfolio Demo](https://github.com/your-username/your-repo/raw/main/path/to/your/animated.gif](https://github.com/Hassan-173732/3DPortfolio/blob/master/Demo.gif?raw=true)
+![3D Portfolio Demo](Demo.gif)
 
 
 
