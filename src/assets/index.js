@@ -30,13 +30,13 @@ import threejs from "./tech/threejs.svg";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import ambsan from "./company/Ambsan.png";
-import unikrew from "./company/Unikrew.png";
+import unikrew from "./company/cantechjob.png";
 import tesla from "./company/tesla.png";
 
 import ahmedali from "./AhmedAli.png";
 import hasanhaider from "./hasanhaider.png";
 import saad from "./saad.png";
-import carrent from "./carrent.png";
+import carrent from "./project.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 

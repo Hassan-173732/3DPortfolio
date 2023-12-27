@@ -44,7 +44,7 @@ const About = () => {
     <motion.p variants={fadeIn("","",0.1,1)}
     className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
     >
-🚀 Hi there! I'm a passionate full-stack developer with a knack for crafting beautiful websites. My academic background in Computer Science, combined with a strong foundation in science and engineering, brings a unique perspective to my coding endeavors. 🎓 Self-taught and armed with over two years of experience, I specialize in building .NET C# applications. 💻 My skills extend to both SQL and NoSQL databases, and I'm well-versed in cloud technologies, having danced with Azure and AWS. ☁️ Always eager to learn and stay ahead in tech trends, I contribute my skills and enthusiasm to innovative projects, creating digital magic along the way! ✨🚀 Let's build something awesome together! 🚧🛠️</motion.p>
+🚀 Hi there! I'm a dedicated full-stack developer with a creative touch and a strong foundation in science and engineering, holding a degree in Computer Science. With over two years of experience, my frontend expertise lies in crafting visually stunning websites using React, JavaScript, HTML, and CSS. On the backend, I excel in developing robust applications with a focus on server-side functionalities using Node.js. Proficient in Git, I ensure streamlined collaboration and code management for smooth project development. Let's collaborate and bring your ideas to life! 🛠️✨</motion.p>
     <div className='mt-6 flex flex-wrap gap-10'>
     {services.map((services,index) =>(
       <ServiceCard key = {services.title} index={index} {...services}/>
